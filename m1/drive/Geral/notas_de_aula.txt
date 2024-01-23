@@ -1,0 +1,22 @@
+# Canais no Youtube
+
+canal @ML4U_Mello - Ciência de Dados e Aprendizado de Máquina
+https://www.youtube.com/@ML4U_Mello
+
+canal @FranciscoRodrigues - Probabilidade, estatística, ciência de dados, aprendizado de máquina
+https://www.youtube.com/@FranciscoRodrigues
+
+canal @ViniciusFCarida 
+https://www.youtube.com/@ViniciusFCarida
+
+
+# Repositórios de bases de dados e plataformas de desafios em Ciência de Dados
+- Kaggle
+https://www.kaggle.com/
+
+- UCI
+https://archive.ics.uci.edu/
+
+
+- Link das especificações do Trabalho Prático
+https://github.com/remarchese/DSdegree/tree/master/Modulo1/Aula11%20e%20projeto
